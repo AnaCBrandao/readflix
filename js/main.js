@@ -1,0 +1,15 @@
+var descriptions = {
+   1: "A Court of Thorns and Roses follows the story of Feyre (who is a huntress) and how her life changes when she is impisoned in the kingdom of her enemy, much to her shock and despair. Thus begins the love/hate type relationship between the two main characters, Feyre and Tamlin.",
+   2: "The Call of Cthulhu chronicles Francis Wayland Thurston as he goes through notes of his dead uncle and other accounts of a mysterious cult. The cult worships Cthulhu, a monstrous human, octopus, dragon hybrid that lives in the sunken corpse city of R'lyeh, who's dreams influence reality.",
+   3: "The Hobbit is set within Tolkien's fictional universe and follows the quest of home-loving Bilbo Baggins, the titular hobbit, to win a share of the treasure guarded by a dragon named Smaug. Bilbo's journey takes him from his light-hearted, rural surroundings into more sinister territory.",
+   4: "The main idea of The Art of War is, He will win who knows when to fight and when not to fight. He will win who knows how to handle both superior and inferior forces. He will win whose army is animated by the same spirit throughout all its ranks. He will win who, prepared himself, waits to take the enemy unprepared.",
+   5: "Yuval Noah Harari's book, 'Sapiens,' traces the origins, mechanisms, and effects of what we think of as “human progress from small bands of hunter-gatherers 100,000 years ago to the present-day global network through which our species has come to dominate the entire Earth.",
+   6: "In her book Mindset: The New Psychology of Success, Carol S. Dweck argues that a growth mindset—the belief that abilities can be developed and the desire to embrace learning, challenges, and setbacks as sources of growth—creates the drive and resilience that influence success in virtually every area of life.",
+   7: "A Game of Thrones takes place over the course of one year on or near the fictional continent of Westeros. The story begins when King Robert visits the northern castle Winterfell to ask Ned Stark to be his right-hand assistant, or Hand of the King. The previous Hand, Jon Arryn, died under suspicious circumstances.",
+   8: "The Lightning Thief is a light-hearted fantasy about a modern 12-year-old boy who learns that his true father is Poseidon, the Greek god of the sea. Percy sets out to become a hero by undertaking a quest across the United States to find the entrance to the Underworld and stop a war between the gods.",
+   9: "As the grandmaster who founded demonic cultivation, Wei WuXian roamed the world in his wanton ways, hated by millions for the chaos he created. In the end, he was backstabbed by his dearest shidi and killed by powerful clans that combined to overpower him.",
+   10: "Publicado em 1891, o romance conta a vida de Rubião, um pacato professor que se torna rico da noite para o dia ao receber uma herança deixada pelo filósofo Quincas Borba, criador de uma filosofia chamada Humanitismo."};
+
+function seeMore(element){
+     console.log(descriptions[element.id]);
+}
