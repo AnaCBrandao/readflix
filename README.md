@@ -10,7 +10,7 @@
 
 ## Features
 <div>
-  <img width="70px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
+  <img width="56px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
   <img width="70px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
 </div>
 
